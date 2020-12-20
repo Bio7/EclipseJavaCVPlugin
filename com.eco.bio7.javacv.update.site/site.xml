@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.eco.bio7.javacv.feature_1.4.4.202007131051.jar" id="com.eco.bio7.javacv.feature" version="1.4.4.202007131051">
+      <category name="Java CV Libraries"/>
+   </feature>
+   <category-def name="Java CV Libraries" label="Java CV Libraries">
+      <description>
+         A  plugin which make Java CV libraries available.
+      </description>
+   </category-def>
+</site>
